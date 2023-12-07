@@ -1,1 +1,1 @@
-# GTU-Old-Paper
+# GTUOldPaper
